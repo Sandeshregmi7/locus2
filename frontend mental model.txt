@@ -1,0 +1,13 @@
+frontend mental model
+html -st
+css-des.
+js-function
+span tag-covers all the view port... inline tag...
+p tag-doesnt coverv all the viewport...block tag....
+div-a container ..helps in styling ...
+ol-number
+ul-bullet
+
+
+css
+selector
